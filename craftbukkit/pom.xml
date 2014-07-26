@@ -7,13 +7,13 @@
 
     <groupId>com.niesens.bukkit</groupId>
     <artifactId>CraftBukkitServer</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <parent>
         <groupId>com.niesens.bukkit</groupId>
         <artifactId>BukkitPluginTemplate</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
 
     <repositories>
