@@ -1,0 +1,33 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Build and Run" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="org.bukkit.craftbukkit.Main" />
+    <option name="VM_PARAMETERS" value="-Xmx1024M" />
+    <option name="PROGRAM_PARAMETERS" value="-P ..\..\plugin\target\" />
+    <option name="WORKING_DIRECTORY" value="file://./craftbukkit/resources/" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    <option name="ALTERNATIVE_JRE_PATH" value="" />
+    <option name="ENABLE_SWING_INSPECTOR" value="false" />
+    <option name="ENV_VARIABLES" />
+    <option name="PASS_PARENT_ENVS" value="true" />
+    <module name="craftbukkit" />
+    <envs />
+    <RunnerSettings RunnerId="Debug">
+      <option name="DEBUG_PORT" value="" />
+      <option name="TRANSPORT" value="0" />
+      <option name="LOCAL" value="true" />
+    </RunnerSettings>
+    <RunnerSettings RunnerId="JRebel Debug">
+      <option name="DEBUG_PORT" value="" />
+      <option name="TRANSPORT" value="0" />
+      <option name="LOCAL" value="true" />
+    </RunnerSettings>
+    <RunnerSettings RunnerId="JRebel Executor" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Debug" />
+    <ConfigurationWrapper RunnerId="JRebel Executor" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method>
+      <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/plugin/pom.xml" goal="clean package" />
+    </method>
+  </configuration>
+</component>

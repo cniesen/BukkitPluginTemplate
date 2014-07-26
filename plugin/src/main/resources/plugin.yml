@@ -1,0 +1,9 @@
+name: MyPlugin
+main: com.niesens.bukkit.plugin.MyPlugin
+version: 0.1
+description: Starting point for a Bukkit Minecraft plugin using IntelliJ and Maven
+
+commands:
+   mycommand:
+      description: A Command
+      usage: /<command> 

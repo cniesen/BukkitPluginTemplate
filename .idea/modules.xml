@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bukkit.iml" filepath="$PROJECT_DIR$/bukkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/craftbukkit/craftbukkit.iml" filepath="$PROJECT_DIR$/craftbukkit/craftbukkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin/plugin.iml" filepath="$PROJECT_DIR$/plugin/plugin.iml" />
+    </modules>
+  </component>
+</project>
+
